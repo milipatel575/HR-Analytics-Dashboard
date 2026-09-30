@@ -111,7 +111,6 @@ HR-Analytics-Dashboard/
 ├── requirements.txt
 ├── README.md
 ├── ARCHITECTURE.md
-└── VIVA_QUESTIONS.md
 ```
 
 ---
@@ -146,4 +145,4 @@ The `sql/sample_data.sql` file seeds:
 ## 📚 Documentation
 
 - [`ARCHITECTURE.md`](ARCHITECTURE.md) — Folder structure and data flow explanation
-- [`VIVA_QUESTIONS.md`](VIVA_QUESTIONS.md) — 20 likely interview/viva Q&A
+
